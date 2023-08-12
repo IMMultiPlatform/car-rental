@@ -1,37 +1,24 @@
-# 租车
-
 #### 介绍
-租车小程序
+这是一个在线的汽车租赁网站，满足各类用户对汽车租赁的需求，为用户提供各种款式的汽车，提供登录注册，汽车浏览，汽车信息查询，订单查询，信息修改等功能。
 
-#### 软件架构
-软件架构说明
+#### 微信公众号
+<center>
+	<img src="https://img.laibokj.com/officialAccounts/qrcode/qrcode/1m_430.jpg" width="50%">
+</center>
 
+#### 如何联系我们
+官方QQ群：
 
-#### 安装教程
+  星辰科技-同城、外卖、跑腿①群：823818095
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+如需购买商业版源码，请联系商务微信
 
-#### 使用说明
+<center>
+	<img src="https://img.laibokj.com/officialAccounts/members/vivi.jpg" width="50%">
+</center>
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 相关截图
 
-#### 参与贡献
+##### 1.移动端截图
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+##### 2.后端截图
